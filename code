@@ -1,0 +1,6 @@
+src/
+└── Magento/
+    └── app/
+        └── code/
+            └── Acme/
+                └── HelloWorld/
